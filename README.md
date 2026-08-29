@@ -21,6 +21,7 @@ A responsive personal portfolio website showcasing my skills, projects, and web 
 ## Live Demo
 
 [View Live Website](https://devanshy6342-afk.github.io/My_portfolio-/)
+![Portfolio Preview](project-image.jpg)
 ## Author
 
 Devansh
